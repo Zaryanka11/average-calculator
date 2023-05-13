@@ -6,6 +6,6 @@ def calculate_average(numbers):
     return average
 
 # Пример использования
-numbers = [2, 4, 6, 8, 10]
+numbers = [2, 4, 6, 8, 10, 12]
 result = calculate_average(numbers)
 print(f"Среднее значение: {result}")
