@@ -5,7 +5,6 @@ def calculate_average(numbers):
     average = total / len(numbers)
     return average
 
-
 # Тест 1: Проверка среднего значения для непустого списка чисел
 numbers = [2, 4, 6, 8, 10]
 expected_result = 6.0
